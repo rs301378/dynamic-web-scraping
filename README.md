@@ -1,1 +1,1 @@
-# dynamic-web-scraping
+# Dynamic Web Scraping using Selenium
