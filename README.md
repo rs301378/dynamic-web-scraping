@@ -11,12 +11,12 @@
 ![index_page](https://github.com/rs301378/dynamic-web-scraping/blob/master/scrap.png)
 
 ## Overview
-This is a simple car price predictor Flask app. It shows the selling price of your car by putting the values/features like year in which the car was bought, ex-showroom price of the car, the distance completed by the car in km, the number of owners the car has previously had, Fuel type of the car, whether the seller is a dealer or an individual, and whether the car is manual or automatic. By using this data it will predict the cars selling price. All the data contain in a `.csv` file.
+This is a simple webscrapper who scraps dynamic sites content like youtube.
 
 ## Installation
 The code is written in `Python 3.8`. If you don't have Python installed you can find it [here](https://www.python.org/downloads/ "install python") .To install the required packages and libraries: 
-* [here](https://www.selenium.dev/downloads/ "install selenium")
-* [here](https://chromedriver.chromium.org/downloads "chrome driver")
+* [Selenium](https://www.selenium.dev/downloads/ "install selenium")
+* [Chrome Driver](https://chromedriver.chromium.org/downloads "chrome driver") <br>
 `pip install pandas`
 ## Run
 ### Step1.
