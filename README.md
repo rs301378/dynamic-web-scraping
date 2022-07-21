@@ -14,7 +14,7 @@
 This is a simple webscrapper who scraps dynamic sites content like youtube.
 
 ## Installation
-The code is written in `Python 3.6`. If you don't have Python installed you can find it [here](https://www.python.org/downloads/ "install python") .To install the required packages and libraries: 
+The code is written in `Python 3.8`. If you don't have Python installed you can find it [here](https://www.python.org/downloads/ "install python") .To install the required packages and libraries: 
 * [Selenium](https://www.selenium.dev/downloads/ "install selenium")
 * [Chrome Driver](https://chromedriver.chromium.org/downloads "chrome driver") <br>
 * `pip install pandas`
